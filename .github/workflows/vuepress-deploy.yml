@@ -7,12 +7,11 @@ jobs:
     - name: Checkout
       uses: actions/checkout@master
 
-    # Add comment to trigger build in cloud
     - name: vuepress-deploy
       uses: jenkey2011/vuepress-deploy@master
       env:
-        ACCESS_TOKEN: ${{ secrets.ORG_ACCESS_TOKEN }}
-        TARGET_REPO: Hardocs/hardocs.github.io
-        TARGET_BRANCH: gh-pages
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        # TARGET_REPO: Hardocs/hardocs.github.io
+        # TARGET_BRANCH: gh-pages
         BUILD_SCRIPT: yarn && yarn build
         BUILD_DIR: build/
