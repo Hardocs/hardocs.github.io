@@ -1,14 +1,25 @@
 <template>
   <main class="home min-h-screen" aria-labelledby="main-title">
     <div class="header m-auto text-center py-4">
-      <img class="m-auto py-4" :src="$withBase('/hardocs-banner.png')" alt="big_logo" />
-      <h1 class="text-4xl w-4/5 m-auto font-bold">{{title}}</h1>
-      <p class="py-12">{{subtitle}}</p>
+      <img
+        class="m-auto py-4"
+        :src="$withBase('/hardocs-banner.png')"
+        alt="big_logo"
+      />
+      <h1 class="text-4xl w-4/5 m-auto font-bold">{{ title }}</h1>
+      <p class="pt-12 pb-4">{{ subtitle }}</p>
     </div>
     <!-- <Content class="theme-default-content custom"/> -->
     <!-- <p>{{items}}</p> -->
+    <div class="">
+      <img
+        class="m-auto pt-4 pb-12 rounded-md shadow-xl"
+        :src="$withBase('/guide-CreateProject.gif')"
+        alt="big_logo"
+      />
+    </div>
     <div
-      class="grid md:grid-flow-col grid-flow-row md:grid-cols-2 grid-rows-2 gap-3 py-4"
+      class="py-24 grid md:grid-flow-col grid-flow-row md:grid-cols-2 grid-rows-2 gap-3"
     >
       <div v-for="i in items" class="">
         <!-- <div class="text-center"v-if="i.level == 1">
@@ -22,7 +33,7 @@
         >
           <router-link :to="i.relativePath">
             <h2 class="border-0">{{ i.title }}</h2>
-            <p style="color:#121212;" class="">{{ i.description }}</p>
+            <p style="color: #121212" class="">{{ i.description }}</p>
           </router-link>
         </div>
         <div v-else></div>
@@ -39,8 +50,10 @@ export default {
   data() {
     return {
       items: jsonContents.contents,
-      title: "Enabling friendly documentation workflows \n for non code projects",
-      subtitle: "Local first desktop app to edit metadata easily, create, store and organize documents locally and on the cloud"
+      title:
+        "Enabling friendly documentation workflows \n for non code projects",
+      subtitle:
+        "Local first desktop app to edit metadata easily, create, store and organize documents locally and on the cloud",
     };
   },
   computed: {
@@ -58,12 +71,14 @@ export default {
 };
 </script>
 <style scoped>
-h1,h2,h3,h4{
+h1,
+h2,
+h3,
+h4 {
   font-weight: 300 !important;
   text-decoration: none !important;
-  border:none !important;
+  border: none !important;
 }
-
 </style>
 
 
