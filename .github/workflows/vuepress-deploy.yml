@@ -7,7 +7,6 @@ jobs:
     - name: Checkout
       uses: actions/checkout@master
 
-    # The specific action for this job
     - name: vuepress-deploy
       uses: jenkey2011/vuepress-deploy@master
       env:
