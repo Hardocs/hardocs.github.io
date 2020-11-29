@@ -25,8 +25,8 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      // { text: 'Guide', link: '/content/' },
-      // { text: 'Blog', link: '/blog/' },
+      { text: 'About EOSC co-creation', link: '/02-co-creation-report/' },
+      { text: 'Repositories', link: '/01-dev-status/' },
     ],
     logo: "/logo.png",
     sidebar: modules,
