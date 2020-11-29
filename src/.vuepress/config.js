@@ -17,7 +17,7 @@ module.exports = {
   description: "We are a community dedicated to using, replicating, testing, developing and teaching open hardware concepts in Delft. Join our community and monthly events ",
   dest: "build",
   base: "/",
-  // head: [["link", { rel: "icon", href: "/logo.png" }]],
+  head: [["link", { rel: "icon", href: "/logo.png" }]],
   extend: "@vuepress/theme-default",
   // config: md => {
   //   md.options.linkify = modules;
@@ -26,12 +26,12 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/content/' },
-      { text: 'Blog', link: '/blog/' },
+      // { text: 'Blog', link: '/blog/' },
     ],
     logo: "/logo.png",
     sidebar: modules,
     // if your docs are in a different repo from your main project:
-    docsRepo: "https://gitlab.com/go-commons/delftopenhardware/delftoh",
+    docsRepo: "https://github.com/Hardocs/hardocs.github.io",
     // if your docs are not at the root of the repo:
     docsDir: "docs",
     // if your docs are in a specific branch (defaults to 'master'):
@@ -42,12 +42,12 @@ module.exports = {
     editLinkText: "Help us improve this page!"
   },
   plugins: [
-    [
-      '@vuepress/google-analytics',
-      {
-        'ga': '' // UA-00000000-0
-      }
-    ],
+    // [
+    //   '@vuepress/google-analytics',
+    //   {
+    //     'ga': '' // UA-00000000-0
+    //   }
+    // ],
     '@vuepress/pwa',
     'vuepress-plugin-reading-time',
   ],

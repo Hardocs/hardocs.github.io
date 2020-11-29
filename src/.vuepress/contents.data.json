@@ -1,6 +1,6 @@
 {"contents":[
   {
-    "id": 961,
+    "id": 952,
     "description": "Want to see what we are all about?  Here is how you can find us\n",
     "title": "Meetups",
     "isPublic": true,
@@ -9,12 +9,12 @@
     "level": 2,
     "parent": null,
     "children": [],
-    "path": "D:\\my-projects\\DELFT-OPEN-HARDWARE\\REPOS\\delftoh\\src\\events\\",
+    "path": "D:\\my-projects\\hardocs\\REPOS\\hardocs.github.io\\src\\events\\",
     "relativePath": "/events/",
     "authors": ""
   },
   {
-    "id": 925,
+    "id": 964,
     "description": "For students, researchers, professors, staff and beyond\n",
     "title": "Getting involved",
     "isPublic": true,
@@ -23,12 +23,12 @@
     "level": 2,
     "parent": null,
     "children": [],
-    "path": "D:\\my-projects\\DELFT-OPEN-HARDWARE\\REPOS\\delftoh\\src\\get_involved\\",
+    "path": "D:\\my-projects\\hardocs\\REPOS\\hardocs.github.io\\src\\get_involved\\",
     "relativePath": "/get_involved/",
     "authors": ""
   },
   {
-    "id": 164,
+    "id": 937,
     "description": "Find out what we do, how you can support and how to suggest projects\n",
     "title": "Projects",
     "isPublic": true,
@@ -37,7 +37,7 @@
     "level": 2,
     "parent": null,
     "children": [],
-    "path": "D:\\my-projects\\DELFT-OPEN-HARDWARE\\REPOS\\delftoh\\src\\projects\\",
+    "path": "D:\\my-projects\\hardocs\\REPOS\\hardocs.github.io\\src\\projects\\",
     "relativePath": "/projects/",
     "authors": ""
   }
