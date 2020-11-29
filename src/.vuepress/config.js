@@ -17,7 +17,7 @@ module.exports = {
   description: "We are a community dedicated to using, replicating, testing, developing and teaching open hardware concepts in Delft. Join our community and monthly events ",
   dest: "build",
   base: "/",
-  head: [["link", { rel: "icon", href: "/logo.png" }]],
+  // head: [["link", { rel: "icon", href: "/logo.png" }]],
   extend: "@vuepress/theme-default",
   // config: md => {
   //   md.options.linkify = modules;
