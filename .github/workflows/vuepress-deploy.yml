@@ -10,7 +10,7 @@ jobs:
     - name: vuepress-deploy
       uses: jenkey2011/vuepress-deploy@master
       env:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        ACCESS_TOKEN: ${{ secrets.SECRET_TOKEN }}
         TARGET_REPO: hardocs/hardocs.github.io
         TARGET_BRANCH: gh-pages
         BUILD_SCRIPT: yarn && yarn build
