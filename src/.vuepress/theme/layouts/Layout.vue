@@ -37,19 +37,22 @@
       </div>
     </footer>
     </div>
+    <Footer></Footer>
   </div>
 </template>
 
 <script>
 import Home from "@theme/components/Home.vue";
+import Footer from "@theme/components/Footer.vue";
 import BlogPage from "@theme/components/BlogPage.vue";
 import Navbar from "@theme/components/Navbar.vue";
 import Page from "@theme/components/Page.vue";
 import Sidebar from "@theme/components/Sidebar.vue";
 import { resolveSidebarItems } from "../util";
+// import Footer from '../components/Footer.vue';
 
 export default {
-  components: { Home, BlogPage, Page, Sidebar, Navbar },
+  components: { Home, BlogPage, Page, Sidebar, Navbar, Footer },
 
   data() {
     return {

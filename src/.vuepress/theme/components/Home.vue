@@ -1,8 +1,9 @@
 <template>
   <main class="home min-h-screen" aria-labelledby="main-title">
-    <div class="header m-auto text-center">
-      <img class="m-auto" :src="$withBase('/hardocs-banner.png')" alt="big_logo" />
-      <!-- <h1>Delft <strong class="font-bold">Open</strong> Hardware</h1> -->
+    <div class="header m-auto text-center py-4">
+      <img class="m-auto py-4" :src="$withBase('/hardocs-banner.png')" alt="big_logo" />
+      <h1 class="text-4xl w-4/5 m-auto font-bold">{{title}}</h1>
+      <p class="py-12">{{subtitle}}</p>
     </div>
     <!-- <Content class="theme-default-content custom"/> -->
     <!-- <p>{{items}}</p> -->
@@ -38,6 +39,8 @@ export default {
   data() {
     return {
       items: jsonContents.contents,
+      title: "Working towards friendlier documentation \n for none code projects",
+      subtitle: "Local first desktop app to edit metadata easily, create, store and organize documents locally and on the cloud"
     };
   },
   computed: {
@@ -54,5 +57,13 @@ export default {
   },
 };
 </script>
+<style scoped>
+h1,h2,h3,h4{
+  font-weight: 300 !important;
+  text-decoration: none !important;
+  border:none !important;
+}
+
+</style>
 
 
