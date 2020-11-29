@@ -5,16 +5,16 @@ const { buildContents, buildSidebar } = require('metacon')
 let contents = require('./contents.data.json')
 contents = contents.contents
 console.log(contents)
-let modules = buildSidebar(contents, path.join( __dirname, '../'))
+let modules = buildSidebar(contents, path.join(__dirname, '../'))
 console.log(modules)
 
 
 
 // configure these modules if you
 module.exports = {
-  title: "Delft Open Hardware",
+  title: "HARDOCS",
   //description : "use for meta descriptitrueon",
-  description: "We are a community dedicated to using, replicating, testing, developing and teaching open hardware concepts in Delft. Join our community and monthly events ",
+  description: "",
   dest: "build",
   base: "/",
   head: [["link", { rel: "icon", href: "/logo.png" }]],
@@ -54,7 +54,13 @@ module.exports = {
   postcss: {
     plugins: [
       require("tailwindcss")("./tailwind.config.js"),
-      require("autoprefixer")
+      require("autoprefixer"),
+      '@saintic/utterances',
+        {
+          repo: 'Hardocs/hardocs.github.io',
+          theme: 'github-light',
+          issueTerm: 'pathname'
+        }
     ]
   }
 };

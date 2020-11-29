@@ -1,6 +1,6 @@
 <template>
   <main class="home min-h-screen" aria-labelledby="main-title">
-    <div class="header m-auto text-center py-12">
+    <div class="header m-auto text-center">
       <img class="m-auto" :src="$withBase('/hardocs-banner.png')" alt="big_logo" />
       <!-- <h1>Delft <strong class="font-bold">Open</strong> Hardware</h1> -->
     </div>
