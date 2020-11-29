@@ -1,7 +1,7 @@
 ---
 meta:
   - name: description
-    content: Delft Open Hardware Community
+    content: Friendly documentation workflows for non code projects
   - name: keywords
     content: hardware, design, open source, TU Delft, open science, community, meetups 
 home: true

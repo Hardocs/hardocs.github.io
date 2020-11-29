@@ -13,7 +13,7 @@ console.log(modules)
 // configure these modules if you
 module.exports = {
   title: "HARDOCS",
-  //description : "use for meta descriptitrueon",
+  description : "Friendly documentation workflows for non code projects",
   description: "",
   dest: "build",
   base: "/",
