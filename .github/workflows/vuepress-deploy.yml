@@ -1,4 +1,4 @@
-name: A TO A:GH_PAGES
+name: Build and Deploy
 on: [push]
 jobs:
   build-and-deploy:
@@ -8,10 +8,10 @@ jobs:
       uses: actions/checkout@master
 
     - name: vuepress-deploy
-      uses: hardocs/vuepress-deploy@master
+      uses: jenkey2011/vuepress-deploy@master
       env:
-        ACCESS_TOKEN: ${{ secrets.SECRET_TOKEN }}
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         TARGET_REPO: hardocs/hardocs.github.io
-        TARGET_BRANCH: gh_pages
+        TARGET_BRANCH: gh-pages
         BUILD_SCRIPT: yarn && yarn build
-        BUILD_DIR: build
+        BUILD_DIR: build/
