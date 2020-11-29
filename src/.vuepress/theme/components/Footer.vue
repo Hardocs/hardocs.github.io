@@ -2,10 +2,17 @@
   <div class="border-t-0 py-8 border-opacity-25 w-full">
     <div class="m-auto md:flex lg:w-1/2">
       <div class="p-8">
-        <p class="py-8">
-          This project has been funded by the
+        <p class="py-6">
+          This is a TU Delft initiative funded by the
           <strong>European Open Science Cloud</strong> co-creation grant in 2020.
         </p>
+        <a href="https://tudelft.nl"
+          ><img
+            class="py-4 w-24"
+            :src="$withBase('/TUD.png')"
+            alt="TU Delft image"
+          />
+        </a>
         <p>Copyright 2020</p>
       </div>
       <!-- <div class="m-auto"> -->
