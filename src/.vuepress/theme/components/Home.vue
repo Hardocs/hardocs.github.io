@@ -39,7 +39,7 @@ export default {
   data() {
     return {
       items: jsonContents.contents,
-      title: "Enabling friendly documentation workflow \n for non code projects",
+      title: "Enabling friendly documentation workflows \n for non code projects",
       subtitle: "Local first desktop app to edit metadata easily, create, store and organize documents locally and on the cloud"
     };
   },
