@@ -14,4 +14,4 @@ jobs:
         TARGET_REPO: hardocs/hardocs.github.io
         TARGET_BRANCH: gh_pages
         BUILD_SCRIPT: yarn && yarn build
-        BUILD_DIR: src/.vuepress/dist/
+        BUILD_DIR: build
