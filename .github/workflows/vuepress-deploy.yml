@@ -8,7 +8,7 @@ jobs:
       uses: actions/checkout@master
 
     - name: Build and Deploy
-      uses: hardocs/hardocs.github.io@develop
+      uses: hardocs/hardocs.github.io@master
       env:
         ACCESS_TOKEN: ${{ secrets.SECRET_TOKEN }}
         TARGET_REPO: hardocs/hardocs.github.io
