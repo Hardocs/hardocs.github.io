@@ -1,5 +1,5 @@
 ---
-title: Hardocs Project Review - Clive Steward
+title: Hardocs Project Review
 ---
 # Hardocs Project Review - Initiating Phase
 <p style="text-align: center;">Draft, Clive Steward, San Diego, 28 Nov 2020</p>
