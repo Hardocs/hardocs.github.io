@@ -1,8 +1,7 @@
 type: module                              # REQUIRED: Describe the type of module 
-title: Meetups    # REQUIRED: Provide a title for the content module 
+title: Development status    # REQUIRED: Provide a title for the content module 
 description: >                            # REQUIRED
-  Want to see what we are all about? 
-  Here is how you can find us
+  Hardocs is still in an alpha development phase, read more details    
 isPublic: true                            # REQUIRED 
 isDraft: false
 level: 2    

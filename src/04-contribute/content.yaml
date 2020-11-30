@@ -1,0 +1,7 @@
+type: module                              # REQUIRED: Describe the type of module 
+title: How to contribute and participate  # REQUIRED: Provide a title for the content module 
+description: >                            # REQUIRED
+  For users, developers and institutions     
+isPublic: true                            # REQUIRED 
+isDraft: false
+level: 2    

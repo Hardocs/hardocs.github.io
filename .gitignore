@@ -2,4 +2,6 @@ node_modules
 docs/.vuepress/dist
 notes/
 .vscode
+# like .vscode, .idea avoids a dev environment's files
 .idea
+build
