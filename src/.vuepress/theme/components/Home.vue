@@ -13,7 +13,7 @@
     <!-- <p>{{items}}</p> -->
     <div class="">
       <img
-        class="m-auto pt-4 pb-12 rounded-md shadow-xl"
+        class="m-auto rounded-md shadow-xl"
         :src="$withBase('/guide-CreateProject.gif')"
         alt="big_logo"
       />
