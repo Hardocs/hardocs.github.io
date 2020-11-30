@@ -6,13 +6,13 @@ title: Hardocs Project Review
 
 ## Introduction
 
-Editing and reflection can be  our apt tools, for bringing the fruits of imagination into best focus, but we can still enjoy a moment of a proper smile, for what the unusual natures of this first Hardocs project have brought us.
+Editing and reflection can be our apt tools, for bringing the fruits of imagination into best focus, but we can still enjoy a moment of a proper smile, for what the unusual natures of this first Hardocs project have brought us.
 
 Due to the natures of our team, and the natures of its sponsorship, we've had a true opportunity to go after a challenge of much significance; and bring back from this journey not only the insights of framings and researches, but a set of practical, operating models which demonstrate  how these accomplishments and results could be more widely realized, into a future.
 
 Then without a breathlessness it may be rather natural to feel, as we close this initial phase of Hardocs, we can examine here some realities and some potentials of our work.
 
-Experience would say a result as we found is unusual, and that it will have come from a high level of motivated dedication. It was clear from the beginning that we'd been given the opportunity to do something rather potentially contributive here:  to make frameworks which could streamline and thus enable concrete advances in the abilities for some benefits anticipated in **co-creation**, with its enabling **FAIR* and **OPEN** principles, to advance and succeed.
+Experience would say a result as we found is unusual, and that it will have come from a high level of motivated dedication. It was clear from the beginning that we'd been given the opportunity to do something rather potentially contributive here:  to make frameworks which could streamline and thus enable concrete advances in the abilities for some benefits anticipated in **co-creation**, with its enabling **FAIR** and **OPEN** principles, to advance and succeed.
 
 We could do this through improving the ease of the necessary if somewhat daunting portions of **co-creative** effort, especially in producing its enabling summary information and metadata; then through constructing this local ability into a scalable and fundamentally secure internet cloud framework, which can amplify the requisite discoverability and shareability.
 
