@@ -6,7 +6,7 @@ title: Hardocs Project Review
 
 ## Introduction
 
-There's a certain breathlessness it must be natural to feel, as we approach a delivery date for this initial phase of Hardocs. It's no doubt the result of a continuous intensity and pace for the period, which have enabled us to deliver, based in discovery and creation of architecture towards a fully implementable system, a nice set of fully operable demonstrations, for each of the developments the researches we were contracted to have produced.
+There's a certain breathlessness it must be natural to feel, as we approach a delivery date for this initial phase of Hardocs. It's no doubt the result of a continuous intensity and pace for the period, which have enabled us to deliver, based in discovery and creation of architecture towards a fully implementable system, a nice set of fully operable demonstrations, for each of the developments these researches we were contracted to have produced.
 
 Experience would say such a result is unusual, and that it must have come from a very high level of motivated dedication. We've had a highly unusual team, with the sense that we'd been given the sponsorship to do something very potentially contributive here:  to streamline and make framework which could enable real advances in the visible opportunities for **co-creation's** benefits to develop and extend.
 
