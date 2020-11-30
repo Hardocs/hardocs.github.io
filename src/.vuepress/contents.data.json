@@ -1,6 +1,5 @@
 {"contents":[
   {
-    "id": 666,
     "description": "Hardocs is still in an alpha development phase, read more details\n",
     "title": "Development status",
     "isPublic": true,
@@ -9,12 +8,10 @@
     "level": 2,
     "parent": null,
     "children": [],
-    "path": "C:\\vagrant\\release\\hardocs-doc\\hardocs.github.io\\src\\01-dev-status\\",
     "relativePath": "/01-dev-status/",
     "authors": ""
   },
   {
-    "id": 927,
     "description": "Current achievements and findings from this first co-creation activity\n",
     "title": "Co-creation action results",
     "isPublic": true,
@@ -23,12 +20,10 @@
     "level": 2,
     "parent": null,
     "children": [],
-    "path": "C:\\vagrant\\release\\hardocs-doc\\hardocs.github.io\\src\\02-co-creation-report\\",
     "relativePath": "/02-co-creation-report/",
     "authors": ""
   },
   {
-    "id": 372,
     "description": "Read more about FAIR and the motivation behind HARDOCS\n",
     "title": "Premises, features and use cases",
     "isPublic": true,
@@ -37,12 +32,10 @@
     "level": 2,
     "parent": null,
     "children": [],
-    "path": "C:\\vagrant\\release\\hardocs-doc\\hardocs.github.io\\src\\03-features-usecases\\",
     "relativePath": "/03-features-usecases/",
     "authors": ""
   },
   {
-    "id": 225,
     "description": "For users, developers and institutions\n",
     "title": "How to contribute and participate",
     "isPublic": true,
@@ -51,7 +44,6 @@
     "level": 2,
     "parent": null,
     "children": [],
-    "path": "C:\\vagrant\\release\\hardocs-doc\\hardocs.github.io\\src\\04-contribute\\",
     "relativePath": "/04-contribute/",
     "authors": ""
   }
