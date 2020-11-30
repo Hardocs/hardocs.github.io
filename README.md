@@ -1,6 +1,3 @@
-This is the source of the Repo for the website
-To see the website visit: https://delftopenhardware.nl/
-
 # How to contribute to content
 ### Suggesting changes in issues
 - If you have some content suggestions and you don't feel comfortable with git then the best is to open an issue where you provide your content in markdown.
