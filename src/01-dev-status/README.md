@@ -10,7 +10,7 @@ Hardocs electron desktop app presenting current docs editing functionalities.
 - Rich editing of documents in html.
 - Basic editing of metadata files.
 
-## Basis app framework
+## Basis editor application
 [Repository](https://github.com/Hardocs/basis-app-framework)
 
 This is the Research and Development co-creation experiment integrating and testing core architectural capabilities that include:
