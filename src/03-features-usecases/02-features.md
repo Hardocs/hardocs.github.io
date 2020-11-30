@@ -45,6 +45,7 @@ For more detailed information on the development status visit [our development b
 
 ## Habitat Application Framework
 **Status**: operational, in progress
+
 **Rationale**: The application framework has been and continues as the backbone of discovery in our researches and forwards implementations for Hardocs. As well as visually demonstrating developments in the abilities packages we write, it gives examples of programming techniques which enable the flexibility and attractiveness of Hardocs. Mutating as it does, there are feature versions for many steps along the way. Its currently most useful variant allows demonstrating both pandoc document conversions, and the Hardocs Cloud abilities in the internet, which are central to Hardocs and its potentials.
 
 ## Local data base integration
