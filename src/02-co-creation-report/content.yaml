@@ -1,7 +1,7 @@
 type: module                              # REQUIRED: Describe the type of module 
-title: Projects    # REQUIRED: Provide a title for the content module 
+title: Co-creation action results    # REQUIRED: Provide a title for the content module 
 description: >                            # REQUIRED
-  Find out what we do, how you can support and how to suggest projects     
+  Current achievements and findings from this first co-creation activity
 isPublic: true                            # REQUIRED 
 isDraft: false
 level: 2    
