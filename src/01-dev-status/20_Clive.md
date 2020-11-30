@@ -6,7 +6,7 @@ title: Hardocs Project Review
 
 ## Introduction
 
-Editing and reflection can be  our apt tools, for bringing the fruits of imagination into best focus, but we can still enjoy a moment of a proper smile, for what the unusual natures of this first Hardocs project have brought us.
+Editing and reflection can be our apt tools, for bringing the fruits of imagination into best focus, but we can still enjoy a moment of a proper smile, for what the unusual natures of this first Hardocs project have brought us.
 
 Due to the natures of our team, and the natures of its sponsorship, we've had a true opportunity to go after a challenge of much significance; and bring back from this journey not only the insights of framings and researches, but a set of practical, operating models which demonstrate  how these accomplishments and results could be more widely realized, into a future.
 
