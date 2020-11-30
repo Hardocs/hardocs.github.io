@@ -44,4 +44,4 @@ a future, please refer to the Hardocs Project Review, particularly the section [
 
 This framework has been as evolutionary as originally intended, as our possibilities and insights have emerged, become reflected in the Hardocs architecture.
 
-It's been our basis for proving approaches and interfaces that nicely work, so that the results of our researches all along have been the increasing degrees of invitingly operational Hardocs.
+It's been our foundation for proving approaches and interfaces that nicely work, so that the results of our researches all along have been the increasing degrees of invitingly operational Hardocs.
