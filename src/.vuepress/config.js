@@ -50,12 +50,12 @@ module.exports = {
     // ],
     '@vuepress/pwa',
     'vuepress-plugin-reading-time',
-    '@saintic/utterances',
+    ['@saintic/utterances',
         {
           repo: 'Hardocs/hardocs.github.io',
           theme: 'github-light',
           issueTerm: 'pathname'
-        }
+        }]
   ],
   postcss: {
     plugins: [
