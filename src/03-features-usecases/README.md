@@ -27,4 +27,4 @@ The implementation of frameworks and tools for communities of practice determine
 - We as much appreciate the small. Hardocs Cloud is already operating on the internet with the tiniest sizing of inexpensive server droplet, and in some views of possible needs, could as easily in present form be incorporated standalone, within a fully private arena.
 - On another hand, the Habitat access api framework of Hardocs is independent of the interior services it manages. This means that given decisions made with community on needs, in careful mind of actual contemporary abilities, even more advantageous foundations can be possible, including where we already have some enlightening experience.
 - It's well to be aware that all of this is grounded in firm application of the best open-source-available security, via Oauth2 identity deterimination, and our own administrative permissions layering.
-- Open futures, then, always with primary security and data reliability, is what the Hardocs architecture has been intended to provide.
+- Open futures, then, always with primary security and data reliability, are what the Hardocs architecture has been intended to provide.
