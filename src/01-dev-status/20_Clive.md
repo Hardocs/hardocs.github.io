@@ -2,17 +2,23 @@
 title: Hardocs Project Review
 ---
 # Hardocs Project Review - Initiating Phase
-<p style="text-align: center;">Draft, Clive Steward, San Diego, 29 Nov 2020</p>
+<p style="text-align: center;">Draft, Clive Steward, San Diego, 30 Nov 2020</p>
 
 ## Introduction
 
-There's a certain breathlessness it must be natural to feel, as we approach a delivery date for this initial phase of Hardocs. It's no doubt the result of a continuous intensity and pace for the period, which have enabled us to deliver, based in discovery and creation of architecture towards a fully implementable system, a nice set of fully operable demonstrations, for each of the developments these researches we were contracted to have produced.
+Editing and reflection can be  our apt tools, for bringing the fruits of imagination into best focus, but we can still enjoy a moment of a proper smile, for what the unusual natures of this first Hardocs project have brought us.
 
-Experience would say such a result is unusual, and that it must have come from a very high level of motivated dedication. We've had a highly unusual team, with the sense that we'd been given the sponsorship to do something very potentially contributive here:  to streamline and make framework which could enable real advances in the visible opportunities for **co-creation's** benefits to develop and extend.
+Due to the natures of our team, and the natures of its sponsorship, we've had a true opportunity to go after a challenge of much significance; and bring back from this journey not only the insights of framings and researches, but a set of practical, operating models which demonstrate  how these accomplishments and results could be more widely realized, into a future.
 
-We could do this through improving the ease of the necessary if somewhat daunting portions of effort, especially in creating metadata, and through constructing this local ability into a scalable and fundamentally secure internet cloud framework which can amplify discoverability and shareability, the keystones of **FAIR** and **OPEN** ideas becoming able to build new stages in concrete reality.
+Then without a breathlessness it may be rather natural to feel, as we close this initial phase of Hardocs, we can examine here some realities and some potentials of our work.
 
-I think we would feel we've added something fresh to this rather desirable intention, a way one may feel to improve in todays world, through our six-months adventure.
+Experience would say a result as we found is unusual, and that it will have come from a high level of motivated dedication. It was clear from the beginning that we'd been given the opportunity to do something rather potentially contributive here:  to make frameworks which could streamline and thus enable concrete advances in the abilities for some benefits anticipated in **co-creation**, with its enabling **FAIR* and **OPEN** principles, to advance and succeed.
+
+We could do this through improving the ease of the necessary if somewhat daunting portions of **co-creative** effort, especially in producing its enabling summary information and metadata; then through constructing this local ability into a scalable and fundamentally secure internet cloud framework, which can amplify the requisite discoverability and shareability.
+
+These could be seen as keystones of **co-creative**, **FAIR** and **OPEN** ideas becoming able to build into furthuring degrees of useful and usable reality.
+
+I think we would feel we've added something fresh to this desirable intention, a way one may feel could improve in todays world, through our six-months adventure.
 
 ### Looking forwards for a moment
 
