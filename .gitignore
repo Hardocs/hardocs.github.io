@@ -5,3 +5,5 @@ notes/
 # like .vscode, .idea avoids a dev environment's files
 .idea
 build
+# let's not have this mutating gremlin keep appearing in merges...
+src/.vuepress/contents.data.json
