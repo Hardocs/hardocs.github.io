@@ -51,7 +51,7 @@ For more detailed information on the development status visit [our development b
 ## Local data base integration
 **Status** facility operational, integration to do
 
-**Rationale**: Hardocs uses Apache CloudDB as its powerful, document-orientated database, which enables many important efficiencies and features. We have its sibling PouchDB on the Hardocs client, which allows local storage for complete Hardocs data objects. Habitat Client provides this ability, demonstratable in the Application Framework, which the editor application will integrate.
+**Rationale**: Hardocs uses Apache CouchDB as its powerful, document-orientated database, which enables many important efficiencies and features. We have its sibling PouchDB on the Hardocs client, which allows local storage for complete Hardocs data objects. Habitat Client provides this ability, demonstratable in the Application Framework, which the editor application will integrate.
 
 
 ## Cloud database integration
