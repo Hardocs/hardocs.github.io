@@ -1,4 +1,4 @@
-# Architecture design
+# Architectural design
 
 We've mentioned some of the driving goals for the Hardocs Architecture in the Design Premises, so this should be a place to describe some aspects of how they are implemented.
 
@@ -35,7 +35,7 @@ One doesn't deal then with syntax and computer coding; rather with simple items 
 
 Hardocs handles all the internal matters, and incorporates the resulting metadata with its Data Object, giving that unified element we can manipulate, share, display, and discover.
 
-## Where does the data go? Databases, and the Cloud
+## Where does the data go? Databases, and the Workstation
 
 Referring again to our diagram, you can see that once Hardocs Data Objects are formed, they begin to travel, upwards in the picture.
 
@@ -59,7 +59,7 @@ On the other hand, the development of a public face for those who can use it is 
 
 This publicly possible face is in the architectural design most definitely, as in the wider goals of Hardoocs, so we'll move one more step up on the diagram, and to a brief discussion of how that extension is enabled to happen.
 
-## The Hardocs Cloud
+## The larger Hardocs: the Habitat Cloud
 
 We've given the ability to *operate* the cloud for both Hardocs projects and their administration, through that portion of the Habitat Client, its 'API', always on a need-to-have-permission basis.
 
