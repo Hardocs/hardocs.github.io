@@ -2,7 +2,7 @@
 
 We've mentioned some of the driving goals for the Hardocs Architecture in the Design Premises, so this should be a place to describe some aspects of how they are implemented.
 
-A diagram can be a good way to visualize, and understand location for points of interest we'll talk about. Let's start with this outline of the architecture's data flows.
+A diagram can be a good way to visualize, and understand location for points of interest we'll talk about. Let's start with this outline of the architecture's data flows. If you have any trouble with the fine print, you can use Ctrl+ and Ctrl- gently to adjust browser magnification, and scroll around (Ctrl0 will reset).
 <img src="./clive-images/hardocs-data-flows.png" style="margin: 20px auto;">
 
 ## The Hardocs Data Object
