@@ -59,7 +59,7 @@ On the other hand, the development of a public face for those who can use it is 
 
 This publicly possible face is in the architectural design most definitely, as in the wider goals of Hardoocs, so we'll move one more step up on the diagram, and to a brief discussion of how that extension is enabled to happen.
 
-## The larger Hardocs: the Habitat Cloud
+## The Hardocs Cloud
 
 We've given the ability to *operate* the cloud for both Hardocs projects and their administration, through that portion of the Habitat Client, its 'API', always on a need-to-have-permission basis.
 
