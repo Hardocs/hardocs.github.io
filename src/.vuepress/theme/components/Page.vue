@@ -5,6 +5,8 @@
     <Content class="theme-default-content bg-background-content"/>
 
     <footer class="page-edit">
+      <div ref="utterance" className="utterance" />
+      
       <div
         class="edit-link"
         v-if="editLink"
@@ -128,6 +130,17 @@ export default {
         || `Edit this page`
       )
     }
+  },
+  mounted(){
+    const commentBox = this.$refs.utterance
+    let scriptEl = document.createElement("script");
+    scriptEl.setAttribute("src", "https://utteranc.es/client.js");
+    scriptEl.setAttribute("crossorigin","anonymous");
+    scriptEl.setAttribute("async", true);
+    scriptEl.setAttribute("repo", "Hardocs/hardocs.github.io");
+    scriptEl.setAttribute("issue-term", "pathname");
+    commentBox.appendChild(scriptEl);
+    console.log({commentBox})
   },
 
   methods: {
