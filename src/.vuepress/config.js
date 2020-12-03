@@ -33,7 +33,7 @@ module.exports = {
     // if your docs are in a different repo from your main project:
     docsRepo: "https://github.com/Hardocs/hardocs.github.io",
     // if your docs are not at the root of the repo:
-    docsDir: "docs",
+    docsDir: "src",
     // if your docs are in a specific branch (defaults to 'master'):
     docsBranch: "develop",
     // defaults to false, set to true to enable
