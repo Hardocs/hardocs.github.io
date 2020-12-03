@@ -1,0 +1,50 @@
+{"contents":[
+  {
+    "description": "Hardocs is still in an alpha development phase, read more details\n",
+    "title": "Development status",
+    "isPublic": true,
+    "isDraft": false,
+    "type": "module",
+    "level": 2,
+    "parent": null,
+    "children": [],
+    "relativePath": "/01-dev-status/",
+    "authors": ""
+  },
+  {
+    "description": "Current achievements and findings from this first co-creation activity\n",
+    "title": "Co-creation action results",
+    "isPublic": true,
+    "isDraft": false,
+    "type": "module",
+    "level": 2,
+    "parent": null,
+    "children": [],
+    "relativePath": "/02-co-creation-report/",
+    "authors": ""
+  },
+  {
+    "description": "Read more about FAIR and the motivation behind HARDOCS\n",
+    "title": "Premises, features and use cases",
+    "isPublic": true,
+    "isDraft": false,
+    "type": "module",
+    "level": 2,
+    "parent": null,
+    "children": [],
+    "relativePath": "/03-features-usecases/",
+    "authors": ""
+  },
+  {
+    "description": "For users, developers and institutions\n",
+    "title": "How to contribute and participate",
+    "isPublic": true,
+    "isDraft": false,
+    "type": "module",
+    "level": 2,
+    "parent": null,
+    "children": [],
+    "relativePath": "/04-contribute/",
+    "authors": ""
+  }
+]}
