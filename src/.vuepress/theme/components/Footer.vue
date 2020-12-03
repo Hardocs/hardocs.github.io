@@ -6,6 +6,7 @@
           This is a TU Delft initiative funded by the
           <strong>European Open Science Cloud</strong> co-creation grant in 2020.
         </p>
+        <div class="flex gap-x-4">
         <a href="https://tudelft.nl"
           ><img
             class="py-4 w-24"
@@ -13,6 +14,18 @@
             alt="TU Delft image"
           />
         </a>
+        <div>
+        <a href="https://delftopenhardware.nl"
+          ><img
+            class="py-4 w-16"
+            :src="$withBase('/delftoh.png')"
+            alt="Delft Open Hardware"
+          />
+        </a>
+        <!-- <p>Delft <strong>Open</strong> Hardware</p> -->
+        </div>
+
+        </div>
         <p>Copyright 2020</p>
       </div>
       <!-- <div class="m-auto"> -->
