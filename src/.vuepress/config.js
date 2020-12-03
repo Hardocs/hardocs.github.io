@@ -35,7 +35,7 @@ module.exports = {
     // if your docs are not at the root of the repo:
     docsDir: "src",
     // if your docs are in a specific branch (defaults to 'master'):
-    docsBranch: "develop",
+    docsBranch: "master",
     // defaults to false, set to true to enable
     editLinks: true,
 
