@@ -7,17 +7,27 @@
         alt="big_logo"
       />
       <h1 class="text-4xl w-4/5 m-auto font-bold">{{ title }}</h1>
-      <!-- <p class="pt-12 pb-4">{{ subtitle }}</p> -->
+      <h3 class="pt-6 pb-4">{{ subtitle }}</h3>
+      <div 
+        style="cursor: pointer; background-color: white"
+        class="w-1/3 shadow-lg rounded-md m-auto my-4">
+        <a href="https://github.com/Hardocs/desktop-app/releases/">
+          <h2 class="p-4"><strong>Download the app</strong> </h2>
+        </a>
+      </div>
     </div>
     <!-- <Content class="theme-default-content custom"/> -->
     <!-- <p>{{items}}</p> -->
-    <!-- <div class="">
+    <div class="flex">
+      
+      <div class="w-full">
       <img
         class="m-auto rounded-md shadow-xl"
         :src="$withBase('/guide-CreateProject.gif')"
         alt="big_logo"
       />
-    </div> -->
+      </div>
+    </div>
     <div
       class="py-24 grid md:grid-flow-col grid-flow-row md:grid-cols-2 grid-rows-2 gap-3"
     >
@@ -51,9 +61,9 @@ export default {
     return {
       items: jsonContents.contents,
       title:
-        "Enabling friendly documentation workflows \n for non code projects",
+        "A desktop app for project documentation",
       subtitle:
-        "Local first desktop app to edit metadata easily, create, store and organize documents locally and on the cloud",
+        "Designed with hardware documentation in mind",
     };
   },
   computed: {

@@ -4,10 +4,10 @@ If you are interested in collaborating you drop a comment on this page, introduc
 ## For users
 ### Take our usability test for v.0.1.1
 **PREREQUISITES**
-- Have the latest version of the app v0.1.1-alpha
+- Have the latest version of the app v0.1.2-alpha
 - Doing this usability test should take you between 30 mins and 45 mins
 
-- [Usability survey for hardocs v0.1.1-alpha](https://docs.google.com/forms/d/e/1FAIpQLSfbYJWQY6nNiOPkqy04jhKPzIBVoOE3jMptKHTk-Q5KS4B1PQ/viewform)
+- [Usability survey for hardocs v0.1.2-alpha](https://docs.google.com/forms/d/e/1FAIpQLSfbYJWQY6nNiOPkqy04jhKPzIBVoOE3jMptKHTk-Q5KS4B1PQ/viewform)
 
 
 **INSTRUCTIONS**
