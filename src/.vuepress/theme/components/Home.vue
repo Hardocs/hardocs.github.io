@@ -7,17 +7,17 @@
         alt="big_logo"
       />
       <h1 class="text-4xl w-4/5 m-auto font-bold">{{ title }}</h1>
-      <p class="pt-12 pb-4">{{ subtitle }}</p>
+      <!-- <p class="pt-12 pb-4">{{ subtitle }}</p> -->
     </div>
     <!-- <Content class="theme-default-content custom"/> -->
     <!-- <p>{{items}}</p> -->
-    <div class="">
+    <!-- <div class="">
       <img
         class="m-auto rounded-md shadow-xl"
         :src="$withBase('/guide-CreateProject.gif')"
         alt="big_logo"
       />
-    </div>
+    </div> -->
     <div
       class="py-24 grid md:grid-flow-col grid-flow-row md:grid-cols-2 grid-rows-2 gap-3"
     >
