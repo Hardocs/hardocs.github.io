@@ -1,15 +1,15 @@
 # Team
 **Contact person:** Jose Carlos Urra Llanusa
 
-**Email**: j.c.urrallanusa@tudelft.nl
+**Email**: <a href="mailto:j.c.urrallanusa@tudelft.nl">j.c.urrallanusa@tudelft.nl</a>
 
-**Jose Carlos Urra**, Research Software Engineer at TU Delft,  github: *jurra*, Netherlands 
+**Jose Carlos Urra**, Research Software Engineer at TU Delft,  github: [*jurra*](https://github.com/jurra), Netherlands 
 
-**Divine Hycenth**:Full stack developer, Nigeria, github:  *DNature* 
+**Divine Hycenth**:Full stack developer, Nigeria, github:  [*DNature*](https://github.com/DNature) 
 
 **Santosh Ilamparuthi**: Data steward at TU Delft, Netherlands
 
-**Clive Steward**: Senior Technology Consultant, github:  *narration-sd* San Diego, 
+**Clive Steward**: Senior Technology Consultant, github:  [*narration-sd*](https://github.com/narration-sd) San Diego, 
 
 ## Organizations
 - [Delft Open Hardware](https://delftopenhardware.nl/)
