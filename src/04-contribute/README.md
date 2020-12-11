@@ -34,4 +34,4 @@ Get in touch with us
 
 **Contact person:** Jose Carlos Urra Llanusa
 
-**Email**: j.c.urrallanusa@tudelft.nl
+**Email**: <a href="mailto:j.c.urrallanusa@tudelft.nl">j.c.urrallanusa@tudelft.nl</a>
